@@ -11,7 +11,7 @@ Make sure you have Node.js and npm installed on your system.
 
 bash
 Copy code
-git clone https://github.com/N1k0l1n/Expense-Tracker-Native.git
+git clone https://github.com/zoghlamimostafa/Expense-Tracker-React-Native-App.git
 Navigate to the project directory:
 
 bash
@@ -70,5 +70,5 @@ Open a pull request.
 The Foodie Recipes app is open-source software licensed under the MIT License.
 
 ## Contact
-If you have any questions, suggestions, or feedback, feel free to contact us at nikolinandoni80@gmail.com.
+If you have any questions, suggestions, or feedback, feel free to contact us at zoghlamimustapha16@gmail.com.
 
